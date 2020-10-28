@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  margin-right: auto;
+  margin-left:  auto;
+  padding-right: 10px;
+  padding-left:  10px;
+  max-width: 1260px;
+}
+
+@import "./_reset.scss";
+@import "./_typography.scss";
+@import "./hero.scss";
